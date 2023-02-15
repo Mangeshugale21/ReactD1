@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Oswald:wght@300;400&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    max-width: 80vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.navbar{
+    display: flex;
+    height: 4vw;
+}
+
+.navbar> button{
+    color: white;
+    font-size: 1rem;
+    width: 12rem;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #df3624;
+}
+
+.topright{ 
+    width: 50%;
+}
+
+.section1{
+max-height: 100vh; 
+color: dark;
+}
+.my-1{
+    color: #e01d1d;
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.dumbellimg{
+    width: 18.63rem;
+}
+
+.topright .gymimg{
+    width: 29.1rem;
+}
+
+.btn{
+    margin-left: 17.125rem; 
+    color: white;
+    font-size: 1rem;
+    width: 12rem;
+    height: 2.4rem;
+    font-weight: 600;
+    background-color: #df3624;
+    border-radius: 3rem;
+    border: none;
+    cursor: pointer;
+}
+
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
+
+/* contact page styling */
+
+
+
